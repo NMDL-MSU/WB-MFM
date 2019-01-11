@@ -1,0 +1,219 @@
+# Genotype frequencies per coding snp for HSPB8
+# SNP names consist of chromosome_position
+
+8_14645674
+genotypes . C/C C/T
+frequency 1 6 9
+
+8_14645851
+genotypes G/A G/G
+frequency 7 9
+
+8_14646116
+genotypes T/C T/T
+frequency 3 13
+
+8_14646268
+genotypes T/C T/T
+frequency 9 7
+
+8_14646269
+genotypes G/A G/G
+frequency 2 14
+
+8_14646283
+genotypes T/C T/T
+frequency 2 14
+
+8_14646329
+genotypes C/C C/T
+frequency 7 9
+
+8_14646368
+genotypes A/A A/G
+frequency 15 1
+
+8_14646547
+genotypes A/G G/G
+frequency 7 9
+
+8_14646777
+genotypes G/A G/G
+frequency 1 15
+
+8_14646892
+genotypes C/C C/T
+frequency 9 7
+
+8_14646897
+genotypes G/A G/G
+frequency 2 14
+
+8_14646930
+genotypes G/A G/G
+frequency 2 14
+
+8_14647136
+genotypes C/C C/T T/T
+frequency 9 5 2
+
+8_14647338
+genotypes G/A G/G
+frequency 4 12
+
+8_14648423
+genotypes A/G G/G
+frequency 6 10
+
+8_14648736
+genotypes G/G G/T
+frequency 14 2
+
+8_14648739
+genotypes G/T T/T
+frequency 6 10
+
+8_14649080
+genotypes C/A C/C
+frequency 4 12
+
+8_14649320
+genotypes G/A G/G
+frequency 1 15
+
+8_14649326
+genotypes C/C C/T
+frequency 14 2
+
+8_14649348
+genotypes G/C G/G
+frequency 1 15
+
+8_14649598
+genotypes A/A A/G G/G
+frequency 9 5 2
+
+8_14649775
+genotypes G/A G/G
+frequency 7 9
+
+8_14649846
+genotypes G/A G/G
+frequency 1 15
+
+8_14649891
+genotypes C/C C/T
+frequency 13 3
+
+8_14650130
+genotypes G/A G/G
+frequency 7 9
+
+8_14650545
+genotypes C/C C/T
+frequency 15 1
+
+8_14650571
+genotypes C/C T/C
+frequency 10 6
+
+8_14650728
+genotypes . T/G T/T
+frequency 8 2 6
+
+8_14650936
+genotypes . G/C G/G
+frequency 9 1 6
+
+8_14651163
+genotypes . A/A A/G
+frequency 10 5 1
+
+8_14651539
+genotypes . A/A A/G
+frequency 11 4 1
+
+8_14652080
+genotypes . C/C T/C
+frequency 10 4 2
+
+8_14652472
+genotypes . T/C T/T
+frequency 9 1 6
+
+8_14652715
+genotypes . C/C C/T
+frequency 9 5 2
+
+8_14653288
+genotypes . T/C T/T
+frequency 14 1 1
+
+8_14653566
+genotypes . A/G G/G
+frequency 3 5 8
+
+8_14653617
+genotypes . C/A C/C
+frequency 3 3 10
+
+8_14653775
+genotypes . A/A A/G
+frequency 6 7 3
+
+8_14653817
+genotypes . A/T T/T
+frequency 5 3 8
+
+8_14654116
+genotypes . C/C T/C
+frequency 7 5 4
+
+8_14654214
+genotypes . C/C T/C
+frequency 9 4 3
+
+8_14654659
+genotypes . A/G G/G
+frequency 11 1 4
+
+8_14654664
+genotypes . A/A G/A
+frequency 11 4 1
+
+8_14655103
+genotypes . C/C T/C
+frequency 9 4 3
+
+8_14655258
+genotypes . C/C C/T
+frequency 1 14 1
+
+8_14655358
+genotypes . C/C C/T
+frequency 6 9 1
+
+8_14655393
+genotypes . A/G G/G
+frequency 5 3 8
+
+8_14655641
+genotypes . C/C C/T
+frequency 5 7 4
+
+8_14655720
+genotypes . G/A G/G
+frequency 5 1 10
+
+8_14656134
+genotypes . A/A A/G
+frequency 7 8 1
+
+8_14656786
+genotypes G/A G/G
+frequency 1 15
+
+8_14657405
+genotypes C/C C/T
+frequency 15 1
+

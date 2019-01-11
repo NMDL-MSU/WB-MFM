@@ -1,0 +1,71 @@
+# Genotype frequencies per coding snp for LMNA
+# SNP names consist of chromosome_position
+
+5_42040638
+genotypes A/A A/C
+frequency 15 1
+
+5_42041703
+genotypes . A/A A/G
+frequency 4 11 1
+
+5_42041844
+genotypes A/A A/C C/C
+frequency 8 6 2
+
+5_42042018
+genotypes . C/C T/C
+frequency 12 3 1
+
+5_42042033
+genotypes . C/C C/T
+frequency 12 3 1
+
+5_42044296
+genotypes T/G T/T
+frequency 1 15
+
+5_42048070
+genotypes . T/C T/T
+frequency 12 1 3
+
+5_42048076
+genotypes . T/G T/T
+frequency 12 1 3
+
+5_42048456
+genotypes . G/A G/G
+frequency 12 1 3
+
+5_42048495
+genotypes . T/C T/T
+frequency 13 1 2
+
+5_42051719
+genotypes . T/C T/T
+frequency 12 1 3
+
+5_42052281
+genotypes . C/G
+frequency 14 2
+
+5_42054072
+genotypes . A/A G/A
+frequency 13 2 1
+
+5_42054592
+genotypes . T/C T/T
+frequency 14 1 1
+
+5_42056055
+genotypes . C/G
+frequency 14 2
+
+5_42057167
+genotypes . A/A A/G
+frequency 13 2 1
+
+5_42057573
+genotypes C/C C/T
+frequency 15 1
+

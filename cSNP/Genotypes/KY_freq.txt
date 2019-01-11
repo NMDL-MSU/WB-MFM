@@ -1,0 +1,1171 @@
+# Genotype frequencies per coding snp for KY
+# SNP names consist of chromosome_position
+
+16_70042017
+genotypes A/A A/G
+frequency 10 6
+
+16_70042272
+genotypes T/C T/T
+frequency 3 13
+
+16_70042398
+genotypes C/C C/T T/T
+frequency 9 5 2
+
+16_70042656
+genotypes C/C C/T
+frequency 13 3
+
+16_70042703
+genotypes . C/C T/T
+frequency 9 6 1
+
+16_70042741
+genotypes . G/A G/G
+frequency 11 1 4
+
+16_70043246
+genotypes . G/G G/T
+frequency 6 9 1
+
+16_70043564
+genotypes . G/G G/T
+frequency 2 13 1
+
+16_70043582
+genotypes . A/A A/G
+frequency 3 12 1
+
+16_70043872
+genotypes . C/C C/T
+frequency 8 6 2
+
+16_70043957
+genotypes . C/A C/C
+frequency 12 1 3
+
+16_70044040
+genotypes . A/A A/T C/A C/T
+frequency 10 3 1 1 1
+
+16_70044191
+genotypes . A/G
+frequency 14 2
+
+16_70044448
+genotypes . G/C G/G
+frequency 12 1 3
+
+16_70044608
+genotypes . A/A A/T
+frequency 8 7 1
+
+16_70044786
+genotypes . A/A G/A G/G
+frequency 12 1 1 2
+
+16_70044822
+genotypes . C/C C/T
+frequency 13 2 1
+
+16_70045234
+genotypes . C/C C/T
+frequency 9 6 1
+
+16_70045253
+genotypes . T/C T/T
+frequency 10 1 5
+
+16_70046007
+genotypes . G/A G/G
+frequency 6 2 8
+
+16_70046481
+genotypes . A/A A/G
+frequency 7 8 1
+
+16_70046724
+genotypes . G/A G/G
+frequency 4 1 11
+
+16_70046747
+genotypes . G/G T/G T/T
+frequency 5 1 3 7
+
+16_70046867
+genotypes . A/A A/G
+frequency 9 6 1
+
+16_70047320
+genotypes . T/C T/T
+frequency 8 3 5
+
+16_70047321
+genotypes . A/A A/G
+frequency 8 5 3
+
+16_70047450
+genotypes A/A G/A G/G
+frequency 1 8 7
+
+16_70047555
+genotypes . G/G G/T
+frequency 1 8 7
+
+16_70047560
+genotypes . A/A T/A T/T
+frequency 1 1 6 8
+
+16_70047705
+genotypes . G/A G/G
+frequency 2 3 11
+
+16_70048137
+genotypes . C/C C/G
+frequency 1 10 5
+
+16_70048288
+genotypes . C/C C/G
+frequency 1 14 1
+
+16_70048408
+genotypes . A/A A/C
+frequency 1 14 1
+
+16_70048476
+genotypes A/A A/T
+frequency 10 6
+
+16_70048479
+genotypes . C/C C/T
+frequency 1 9 6
+
+16_70048484
+genotypes A/A A/G
+frequency 10 6
+
+16_70048645
+genotypes . T/C T/T
+frequency 4 4 8
+
+16_70048692
+genotypes . C/C C/T
+frequency 4 7 5
+
+16_70048775
+genotypes . A/A A/C
+frequency 4 8 4
+
+16_70048776
+genotypes . G/C G/G
+frequency 3 4 9
+
+16_70048838
+genotypes . T/C T/T
+frequency 3 4 9
+
+16_70049026
+genotypes . C/C C/T
+frequency 3 12 1
+
+16_70049270
+genotypes . G/A G/G
+frequency 2 4 10
+
+16_70049299
+genotypes . C/C C/T
+frequency 1 10 5
+
+16_70049500
+genotypes . G/A G/G
+frequency 3 4 9
+
+16_70049556
+genotypes . G/A G/G
+frequency 2 1 13
+
+16_70049737
+genotypes . T/C T/T
+frequency 3 3 10
+
+16_70049931
+genotypes . C/C C/G
+frequency 3 7 6
+
+16_70050020
+genotypes . A/A A/G
+frequency 4 7 5
+
+16_70050235
+genotypes . A/A A/G G/G
+frequency 2 2 4 8
+
+16_70050266
+genotypes . C/C T/C T/T
+frequency 2 1 5 8
+
+16_70050678
+genotypes . A/A A/T
+frequency 4 11 1
+
+16_70050787
+genotypes . G/C G/G
+frequency 3 5 8
+
+16_70050851
+genotypes . T/C T/T
+frequency 3 2 11
+
+16_70050864
+genotypes . T/C T/T
+frequency 3 5 8
+
+16_70050883
+genotypes . G/A G/G
+frequency 3 5 8
+
+16_70050911
+genotypes . G/A G/G
+frequency 4 4 8
+
+16_70050996
+genotypes . G/A G/G
+frequency 3 2 11
+
+16_70051290
+genotypes . A/A A/T
+frequency 4 11 1
+
+16_70051380
+genotypes . T/T T/TTT
+frequency 3 12 1
+
+16_70051533
+genotypes . G/A G/G
+frequency 3 1 12
+
+16_70051543
+genotypes . A/A A/C
+frequency 3 11 2
+
+16_70051999
+genotypes . G/A G/G
+frequency 2 2 12
+
+16_70052060
+genotypes . G/C G/G
+frequency 4 3 9
+
+16_70052094
+genotypes . A/A A/T
+frequency 4 8 4
+
+16_70052236
+genotypes . A/A A/G
+frequency 3 12 1
+
+16_70052298
+genotypes . G/C G/G
+frequency 7 2 7
+
+16_70052335
+genotypes . CA/CA CAA/CA
+frequency 11 4 1
+
+16_70052434
+genotypes . T/T
+frequency 15 1
+
+16_70052448
+genotypes . T/T
+frequency 15 1
+
+16_70052456
+genotypes . C/T T/T
+frequency 13 1 2
+
+16_70052699
+genotypes . A/A A/C
+frequency 2 11 3
+
+16_70053021
+genotypes . G/A G/G
+frequency 1 1 14
+
+16_70053323
+genotypes T/C T/T
+frequency 1 15
+
+16_70053419
+genotypes . A/A T/A T/T
+frequency 1 1 6 8
+
+16_70053585
+genotypes . A/A A/G
+frequency 2 13 1
+
+16_70053833
+genotypes . A/A G/A G/G
+frequency 2 1 5 8
+
+16_70053926
+genotypes . CTGG/CTGG CTGGGGTGGGGATGG/CTGG CTGGGGTGGGGATGG/CTGGGGTGGGGATGG
+frequency 3 1 4 8
+
+16_70055084
+genotypes . G/G
+frequency 15 1
+
+16_70055085
+genotypes . C/C
+frequency 15 1
+
+16_70055117
+genotypes . G/G
+frequency 12 4
+
+16_70055284
+genotypes C/A C/C
+frequency 7 9
+
+16_70055445
+genotypes . A/A G/A G/G
+frequency 2 1 1 12
+
+16_70055599
+genotypes A/A A/C
+frequency 14 2
+
+16_70055652
+genotypes A/A A/G
+frequency 15 1
+
+16_70055847
+genotypes . A/A A/G
+frequency 2 12 2
+
+16_70056321
+genotypes . G/G G/GC
+frequency 3 6 7
+
+16_70056632
+genotypes . G/G G/T
+frequency 7 8 1
+
+16_70056653
+genotypes . A/A A/G
+frequency 6 9 1
+
+16_70056765
+genotypes . C/C C/T
+frequency 3 12 1
+
+16_70056860
+genotypes . G/A G/G
+frequency 3 1 12
+
+16_70057484
+genotypes . C/C C/T
+frequency 3 9 4
+
+16_70057539
+genotypes . A/A A/C C/C
+frequency 2 2 6 6
+
+16_70057904
+genotypes . T/C T/T
+frequency 6 4 6
+
+16_70058230
+genotypes . G/A G/G
+frequency 4 1 11
+
+16_70058564
+genotypes . G/A G/G
+frequency 7 3 6
+
+16_70058568
+genotypes . G/A G/G
+frequency 7 3 6
+
+16_70058957
+genotypes . A/A G/A G/G
+frequency 5 1 2 8
+
+16_70058962
+genotypes . A/A A/G G/G
+frequency 5 8 2 1
+
+16_70059293
+genotypes A/A G/A G/G
+frequency 1 6 9
+
+16_70059330
+genotypes G/C G/G
+frequency 2 14
+
+16_70059469
+genotypes C/C T/C T/T
+frequency 9 5 2
+
+16_70059470
+genotypes G/G G/T
+frequency 13 3
+
+16_70059498
+genotypes G/A G/G
+frequency 1 15
+
+16_70059518
+genotypes C/C C/T T/T
+frequency 8 6 2
+
+16_70059866
+genotypes A/A A/C
+frequency 9 7
+
+16_70060125
+genotypes T/C T/T
+frequency 2 14
+
+16_70060160
+genotypes A/A G/A G/G
+frequency 1 11 4
+
+16_70060248
+genotypes G/A G/G
+frequency 3 13
+
+16_70060373
+genotypes G/C G/G
+frequency 1 15
+
+16_70060591
+genotypes C/C C/T T/T
+frequency 11 4 1
+
+16_70060702
+genotypes A/A A/C
+frequency 12 4
+
+16_70061087
+genotypes G/A G/G
+frequency 1 15
+
+16_70061323
+genotypes . T/T T/TT T/TTT
+frequency 1 10 3 2
+
+16_70061324
+genotypes . G/G G/T
+frequency 1 14 1
+
+16_70061453
+genotypes C/C C/T T/T
+frequency 5 7 4
+
+16_70061554
+genotypes C/C T/C T/T
+frequency 4 7 5
+
+16_70061625
+genotypes C/C C/CA CA/CA
+frequency 6 8 2
+
+16_70061821
+genotypes C/C C/T T/T
+frequency 7 7 2
+
+16_70061850
+genotypes G/A G/G
+frequency 3 13
+
+16_70061854
+genotypes A/A G/A G/G
+frequency 1 8 7
+
+16_70062022
+genotypes A/A A/G
+frequency 15 1
+
+16_70062217
+genotypes C/C G/C G/G
+frequency 11 3 2
+
+16_70062452
+genotypes C/C C/T
+frequency 13 3
+
+16_70062508
+genotypes GTGGAGCT/GT GTGGAGCT/GTGGAGCT
+frequency 6 10
+
+16_70062594
+genotypes A/A A/G
+frequency 15 1
+
+16_70062746
+genotypes . T/C T/T
+frequency 1 1 14
+
+16_70062966
+genotypes . A/A A/G
+frequency 1 9 6
+
+16_70063023
+genotypes G/A G/G
+frequency 1 15
+
+16_70063060
+genotypes C/C C/T
+frequency 15 1
+
+16_70063163
+genotypes T/C T/T
+frequency 5 11
+
+16_70063283
+genotypes C/C C/G G/G
+frequency 2 4 10
+
+16_70063504
+genotypes C/C C/T
+frequency 14 2
+
+16_70063545
+genotypes G/A G/G
+frequency 3 13
+
+16_70063600
+genotypes G/G T/G T/T
+frequency 6 5 5
+
+16_70063684
+genotypes G/G G/T T/T
+frequency 7 7 2
+
+16_70063735
+genotypes A/A A/G
+frequency 15 1
+
+16_70063817
+genotypes . G/A G/G
+frequency 1 1 14
+
+16_70063826
+genotypes . C/C C/T T/T
+frequency 1 6 5 4
+
+16_70063835
+genotypes . A/A G/A G/G
+frequency 1 4 5 6
+
+16_70063941
+genotypes . G/G G/T T/T
+frequency 1 7 7 1
+
+16_70064104
+genotypes . A/A A/C
+frequency 1 13 2
+
+16_70064204
+genotypes . G/G
+frequency 15 1
+
+16_70064223
+genotypes . A/A
+frequency 15 1
+
+16_70064380
+genotypes . A/G G/G
+frequency 14 1 1
+
+16_70064517
+genotypes . G/G
+frequency 15 1
+
+16_70065810
+genotypes . T/T
+frequency 15 1
+
+16_70065830
+genotypes . C/C
+frequency 15 1
+
+16_70067224
+genotypes . T/C T/T
+frequency 10 1 5
+
+16_70067335
+genotypes . G/A G/G
+frequency 5 1 10
+
+16_70067343
+genotypes . A/A A/C C/C
+frequency 6 1 4 5
+
+16_70067556
+genotypes . T/G T/T
+frequency 4 5 7
+
+16_70067568
+genotypes . A/A A/AA
+frequency 4 10 2
+
+16_70067649
+genotypes . C/C T/C T/T
+frequency 6 2 2 6
+
+16_70067903
+genotypes . A/A A/G
+frequency 4 11 1
+
+16_70068080
+genotypes . A/A A/C
+frequency 7 8 1
+
+16_70068084
+genotypes . A/A A/AA
+frequency 7 7 2
+
+16_70068253
+genotypes . G/A G/G
+frequency 3 1 12
+
+16_70068303
+genotypes . T/C T/T
+frequency 5 3 8
+
+16_70068350
+genotypes . T/C T/T
+frequency 3 1 12
+
+16_70068434
+genotypes . C/C C/T
+frequency 3 12 1
+
+16_70068510
+genotypes . C/C C/T T/T
+frequency 4 9 2 1
+
+16_70068558
+genotypes . A/A G/A G/G
+frequency 4 1 2 9
+
+16_70068670
+genotypes . A/A A/G G/G
+frequency 2 6 4 4
+
+16_70068720
+genotypes . C/C C/T T/T
+frequency 1 9 5 1
+
+16_70068763
+genotypes . A/A A/G
+frequency 1 13 2
+
+16_70068870
+genotypes . T/C T/T
+frequency 3 2 11
+
+16_70069008
+genotypes . T/C T/T
+frequency 4 1 11
+
+16_70069280
+genotypes . C/C T/C T/T
+frequency 4 1 2 9
+
+16_70069321
+genotypes . G/A G/G
+frequency 3 3 10
+
+16_70069339
+genotypes . T/C T/T
+frequency 3 3 10
+
+16_70069497
+genotypes T/C T/T
+frequency 3 13
+
+16_70069561
+genotypes . C/C T/C T/T
+frequency 1 1 3 11
+
+16_70069578
+genotypes . C/C C/T
+frequency 1 12 3
+
+16_70069645
+genotypes . T/C T/T
+frequency 2 4 10
+
+16_70069687
+genotypes . A/A A/AA
+frequency 2 11 3
+
+16_70069872
+genotypes . G/A G/G
+frequency 2 1 13
+
+16_70069994
+genotypes . C/C C/G
+frequency 2 11 3
+
+16_70070001
+genotypes . C/C G/C G/G
+frequency 2 1 3 10
+
+16_70070111
+genotypes . C/C C/T
+frequency 1 14 1
+
+16_70070153
+genotypes . C/C G/C G/G
+frequency 2 7 2 5
+
+16_70070186
+genotypes . G/A G/G
+frequency 2 4 10
+
+16_70070210
+genotypes . G/A G/G
+frequency 2 2 12
+
+16_70070308
+genotypes . C/C C/T
+frequency 2 12 2
+
+16_70070342
+genotypes . A/A A/C
+frequency 3 10 3
+
+16_70070354
+genotypes . C/C C/T
+frequency 3 10 3
+
+16_70070366
+genotypes . G/G G/T
+frequency 3 10 3
+
+16_70070429
+genotypes . A/A A/G
+frequency 10 4 2
+
+16_70070593
+genotypes . C/C C/T
+frequency 6 9 1
+
+16_70070669
+genotypes . C/C C/T
+frequency 6 6 4
+
+16_70070746
+genotypes . C/C C/T
+frequency 9 5 2
+
+16_70071199
+genotypes . A/A A/G
+frequency 5 10 1
+
+16_70071382
+genotypes . C/C C/T
+frequency 6 9 1
+
+16_70071418
+genotypes . G/A G/G
+frequency 5 1 10
+
+16_70071503
+genotypes . G/A G/G
+frequency 7 1 8
+
+16_70071507
+genotypes . C/C C/T
+frequency 7 6 3
+
+16_70071662
+genotypes . C/C C/G G/G
+frequency 6 5 3 2
+
+16_70071822
+genotypes . C/C C/T
+frequency 7 7 2
+
+16_70071876
+genotypes . T/A T/T
+frequency 9 2 5
+
+16_70071919
+genotypes . G/G G/T
+frequency 9 5 2
+
+16_70071968
+genotypes . G/C G/G
+frequency 8 2 6
+
+16_70072190
+genotypes . C/A C/C
+frequency 6 3 7
+
+16_70072191
+genotypes . C/C C/T
+frequency 6 7 3
+
+16_70072307
+genotypes . C/C C/T
+frequency 5 8 3
+
+16_70072335
+genotypes . A/A A/G G/G
+frequency 5 3 2 6
+
+16_70072435
+genotypes . C/C C/G
+frequency 4 10 2
+
+16_70072554
+genotypes . C/C C/T
+frequency 4 10 2
+
+16_70072569
+genotypes . GT/G GT/GT
+frequency 4 4 8
+
+16_70073037
+genotypes . T/C T/T
+frequency 7 1 8
+
+16_70073193
+genotypes . ATGT/AT ATGT/ATGT
+frequency 8 1 7
+
+16_70073565
+genotypes . C/C C/T
+frequency 9 5 2
+
+16_70073568
+genotypes . G/A G/G
+frequency 8 2 6
+
+16_70073886
+genotypes . A/A A/G
+frequency 7 8 1
+
+16_70073962
+genotypes . C/C C/G
+frequency 7 7 2
+
+16_70074323
+genotypes . C/C C/T T/T
+frequency 3 8 3 2
+
+16_70074682
+genotypes . G/A G/G
+frequency 2 1 13
+
+16_70075037
+genotypes T/C T/T
+frequency 1 15
+
+16_70075066
+genotypes A/A A/G
+frequency 15 1
+
+16_70075117
+genotypes T/C T/T
+frequency 2 14
+
+16_70075122
+genotypes C/C C/T
+frequency 14 2
+
+16_70075196
+genotypes C/C C/G
+frequency 15 1
+
+16_70075380
+genotypes . A/A G/A G/G
+frequency 1 1 6 8
+
+16_70075616
+genotypes C/C G/C G/G
+frequency 1 7 8
+
+16_70075628
+genotypes A/A A/G G/G
+frequency 8 7 1
+
+16_70075634
+genotypes G/G G/T T/T
+frequency 13 2 1
+
+16_70075701
+genotypes G/A G/G
+frequency 1 15
+
+16_70075705
+genotypes C/C C/T T/T
+frequency 8 7 1
+
+16_70075731
+genotypes C/C C/T T/T
+frequency 8 7 1
+
+16_70075991
+genotypes C/C T/C T/T
+frequency 1 1 14
+
+16_70076043
+genotypes A/A A/G G/G
+frequency 9 6 1
+
+16_70076052
+genotypes C/C C/G G/G
+frequency 9 6 1
+
+16_70076209
+genotypes A/A C/A C/C
+frequency 1 7 8
+
+16_70076217
+genotypes A/A A/C C/C
+frequency 8 7 1
+
+16_70076595
+genotypes . G/G G/T
+frequency 1 14 1
+
+16_70076935
+genotypes G/A G/G
+frequency 5 11
+
+16_70077353
+genotypes C/C T/C T/T
+frequency 1 5 10
+
+16_70077387
+genotypes C/C T/C T/T
+frequency 1 2 13
+
+16_70077394
+genotypes A/A G/A G/G
+frequency 9 3 4
+
+16_70077408
+genotypes G/G G/T T/T
+frequency 11 4 1
+
+16_70077556
+genotypes T/C T/T
+frequency 1 15
+
+16_70077624
+genotypes T/C T/T
+frequency 3 13
+
+16_70077641
+genotypes C/C C/T
+frequency 13 3
+
+16_70077719
+genotypes G/A G/G
+frequency 2 14
+
+16_70077817
+genotypes . A/A A/G
+frequency 1 11 4
+
+16_70077821
+genotypes . T/C T/T
+frequency 1 4 11
+
+16_70077908
+genotypes G/C G/G
+frequency 4 12
+
+16_70077943
+genotypes A/A A/G G/G
+frequency 7 5 4
+
+16_70078079
+genotypes A/A A/T
+frequency 15 1
+
+16_70078087
+genotypes G/G G/T
+frequency 15 1
+
+16_70078101
+genotypes C/C C/T
+frequency 12 4
+
+16_70078268
+genotypes . A/A A/G G/G
+frequency 1 7 7 1
+
+16_70078279
+genotypes C/C C/G
+frequency 13 3
+
+16_70078318
+genotypes G/A G/G
+frequency 2 14
+
+16_70078371
+genotypes . T/A T/T
+frequency 5 1 10
+
+16_70078472
+genotypes . A/A A/T T/T
+frequency 6 6 3 1
+
+16_70078483
+genotypes . C/A C/C
+frequency 5 1 10
+
+16_70078492
+genotypes . G/G T/G T/T
+frequency 6 7 2 1
+
+16_70078603
+genotypes . A/A A/C
+frequency 7 6 3
+
+16_70078941
+genotypes . G/A G/G
+frequency 8 1 7
+
+16_70078989
+genotypes . C/C C/T
+frequency 4 9 3
+
+16_70079055
+genotypes . C/A C/C
+frequency 3 3 10
+
+16_70079095
+genotypes . C/C C/T T/T
+frequency 4 5 4 3
+
+16_70079283
+genotypes . C/C C/T T/T
+frequency 6 3 5 2
+
+16_70079299
+genotypes . G/G T/G T/T
+frequency 7 2 2 5
+
+16_70079384
+genotypes . T/C T/T
+frequency 7 2 7
+
+16_70079689
+genotypes . G/A G/G
+frequency 6 1 9
+
+16_70079856
+genotypes . C/A C/C
+frequency 6 1 9
+
+16_70079896
+genotypes . A/A A/G
+frequency 5 9 2
+
+16_70079945
+genotypes . A/A A/G
+frequency 8 7 1
+
+16_70079946
+genotypes . C/C C/T
+frequency 8 7 1
+
+16_70079981
+genotypes . G/A G/G
+frequency 8 1 7
+
+16_70079989
+genotypes . G/A G/G
+frequency 7 2 7
+
+16_70079997
+genotypes . T/C T/T
+frequency 7 2 7
+
+16_70079998
+genotypes . G/G G/T
+frequency 7 7 2
+
+16_70080057
+genotypes . C/C C/T T/T
+frequency 6 8 1 1
+
+16_70080204
+genotypes . G/A G/G
+frequency 7 1 8
+
+16_70080222
+genotypes . G/A G/G
+frequency 8 2 6
+
+16_70080268
+genotypes . G/A G/G
+frequency 6 2 8
+
+16_70080491
+genotypes . G/C G/G
+frequency 8 3 5
+
+16_70080562
+genotypes . C/C T/C T/T
+frequency 6 2 2 6
+
+16_70080563
+genotypes . G/A G/G
+frequency 6 3 7
+
+16_70080647
+genotypes . A/A A/G
+frequency 4 11 1
+
+16_70080738
+genotypes . G/A G/G
+frequency 5 2 9
+
+16_70080846
+genotypes . C/A C/C
+frequency 6 4 6
+
+16_70080851
+genotypes . G/A G/G
+frequency 6 1 9
+
+16_70080886
+genotypes . A/A A/G G/G
+frequency 9 3 3 1
+
+16_70081007
+genotypes . T/A T/T
+frequency 8 2 6
+
+16_70081067
+genotypes . A/A A/G
+frequency 7 5 4
+
+16_70081103
+genotypes . C/C T/C T/T
+frequency 6 2 2 6
+
+16_70081426
+genotypes . C/C
+frequency 14 2
+
+16_70081600
+genotypes C/C
+frequency 16
+
+16_70081660
+genotypes C/C C/T
+frequency 15 1
+
