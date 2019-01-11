@@ -3,8 +3,8 @@
 This folder contains the scripts used to call coding SNP for 16 genes of interest from the Warmblood MFM RNA-Seq data using EquCab2 genome.
 
 ### Subfolders:
-- VCF contains the VCF files and scripts used to generate them. To view the bash files used to prepare the data and call coding SNP go to [WB_MFM_Bam.sh](https://github.com/NMDL-MSU/WB-MFM/raw/master/cSNP/WB_MFM_Bam.sh) and [call_gene_variants.sh](https://github.com/NMDL-MSU/WB-MFM/raw/master/cSNP/VCF/call_gene_variants.sh).
-- Genotypes contains R scripts to extract genotype information and frequencies from the VCF files. To view R script go to [genotypes.R](https://htmlpreview.github.io/?https://github.com/NMDL-MSU/WB-MFM/blob/master/cSNP/Genotypes/Genotypes.html)
+- The *VCF* subfolder contains the VCF files and scripts used to generate them. To view the bash files used to prepare the data and call coding SNP go to [WB_MFM_Bam.sh](https://github.com/NMDL-MSU/WB-MFM/raw/master/cSNP/WB_MFM_Bam.sh) and [call_gene_variants.sh](https://github.com/NMDL-MSU/WB-MFM/raw/master/cSNP/VCF/call_gene_variants.sh).
+- The *Genotypes* subfolder contains R scripts to extract genotype information and frequencies from the VCF files. To view R script go to [genotypes.R](https://htmlpreview.github.io/?https://github.com/NMDL-MSU/WB-MFM/blob/master/cSNP/Genotypes/Genotypes.html)
 
 
 ### To view specific files for a gene refer to the following table:
