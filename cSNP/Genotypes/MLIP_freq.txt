@@ -1,0 +1,1811 @@
+# Genotype frequencies per coding snp for MLIP
+# SNP names consist of chromosome_position
+
+20_51494376
+genotypes . G/A G/G
+frequency 12 1 3
+
+20_51494549
+genotypes . G/G
+frequency 13 3
+
+20_51494792
+genotypes . A/G
+frequency 14 2
+
+20_51496311
+genotypes . G/G
+frequency 14 2
+
+20_51496800
+genotypes . C/T
+frequency 14 2
+
+20_51498082
+genotypes . A/A
+frequency 14 2
+
+20_51498309
+genotypes . T/C
+frequency 15 1
+
+20_51498630
+genotypes . C/C
+frequency 15 1
+
+20_51500851
+genotypes . T/T
+frequency 15 1
+
+20_51504511
+genotypes . C/C C/T
+frequency 13 2 1
+
+20_51506267
+genotypes . T/T
+frequency 15 1
+
+20_51508659
+genotypes . G/C
+frequency 14 2
+
+20_51509964
+genotypes . G/G
+frequency 15 1
+
+20_51510036
+genotypes . T/T
+frequency 15 1
+
+20_51510094
+genotypes . C/C
+frequency 15 1
+
+20_51512721
+genotypes . G/G
+frequency 15 1
+
+20_51513297
+genotypes . T/G
+frequency 14 2
+
+20_51514171
+genotypes . A/A
+frequency 14 2
+
+20_51514409
+genotypes . C/C
+frequency 15 1
+
+20_51516979
+genotypes . G/G G/T
+frequency 12 3 1
+
+20_51517152
+genotypes . C/C T/C T/T
+frequency 2 2 4 8
+
+20_51517306
+genotypes . C/C C/T
+frequency 2 11 3
+
+20_51517469
+genotypes . G/G T/G T/T
+frequency 4 1 5 6
+
+20_51517705
+genotypes . A/C C/C
+frequency 7 5 4
+
+20_51517936
+genotypes . T/G T/T
+frequency 8 2 6
+
+20_51518056
+genotypes . C/T T/T
+frequency 6 3 7
+
+20_51518232
+genotypes . A/A G/A G/G
+frequency 5 8 2 1
+
+20_51519416
+genotypes . A/A A/G
+frequency 11 4 1
+
+20_51519473
+genotypes . T/C T/T
+frequency 14 1 1
+
+20_51519984
+genotypes . C/A C/C
+frequency 7 1 8
+
+20_51519996
+genotypes . C/C C/T T/T
+frequency 9 3 3 1
+
+20_51520287
+genotypes . A/A A/G
+frequency 11 4 1
+
+20_51520434
+genotypes . C/C T/C
+frequency 9 5 2
+
+20_51521046
+genotypes . T/C T/T
+frequency 9 1 6
+
+20_51521666
+genotypes . C/C T/C
+frequency 8 6 2
+
+20_51521771
+genotypes . A/A G/A
+frequency 9 5 2
+
+20_51521773
+genotypes . C/T T/T
+frequency 9 2 5
+
+20_51521848
+genotypes . A/G G/G
+frequency 9 2 5
+
+20_51522091
+genotypes . T/C T/T
+frequency 7 1 8
+
+20_51522305
+genotypes . A/A A/C C/C
+frequency 6 8 1 1
+
+20_51522312
+genotypes . TGGG/TGGG TGGGG/TGGG
+frequency 5 10 1
+
+20_51522339
+genotypes . C/C C/T
+frequency 4 11 1
+
+20_51522429
+genotypes . G/G
+frequency 3 13
+
+20_51522443
+genotypes . C/C C/T
+frequency 4 10 2
+
+20_51522472
+genotypes . A/A
+frequency 4 12
+
+20_51522482
+genotypes . A/A A/G
+frequency 4 6 6
+
+20_51522506
+genotypes . GAAA/GAA GAAA/GAAA
+frequency 8 4 4
+
+20_51522590
+genotypes . A/A G/A G/G
+frequency 7 2 2 5
+
+20_51523013
+genotypes . G/A G/G
+frequency 11 1 4
+
+20_51523130
+genotypes . C/C C/T
+frequency 9 6 1
+
+20_51524802
+genotypes . G/G
+frequency 15 1
+
+20_51525068
+genotypes . C/T
+frequency 14 2
+
+20_51527580
+genotypes . G/A G/G
+frequency 11 1 4
+
+20_51527772
+genotypes . A/A A/G
+frequency 12 1 3
+
+20_51527951
+genotypes . A/A A/G
+frequency 13 2 1
+
+20_51528019
+genotypes . G/A G/G
+frequency 11 2 3
+
+20_51528095
+genotypes . C/T T/T
+frequency 10 5 1
+
+20_51528383
+genotypes . A/G
+frequency 14 2
+
+20_51528445
+genotypes . G/G
+frequency 15 1
+
+20_51528503
+genotypes . C/C
+frequency 13 3
+
+20_51528799
+genotypes . G/A G/G
+frequency 13 1 2
+
+20_51528808
+genotypes . C/C C/T
+frequency 12 3 1
+
+20_51529260
+genotypes . C/C C/T
+frequency 13 2 1
+
+20_51529531
+genotypes . A/A A/G
+frequency 13 2 1
+
+20_51529953
+genotypes . T/T
+frequency 13 3
+
+20_51530409
+genotypes . G/G
+frequency 15 1
+
+20_51530765
+genotypes . A/A C/A
+frequency 8 7 1
+
+20_51530925
+genotypes . A/A
+frequency 15 1
+
+20_51531149
+genotypes . A/A A/G
+frequency 12 3 1
+
+20_51531214
+genotypes . G/A G/G
+frequency 12 1 3
+
+20_51531266
+genotypes . A/A A/G
+frequency 12 3 1
+
+20_51531288
+genotypes . G/A G/G
+frequency 13 1 2
+
+20_51532203
+genotypes . C/G G/G
+frequency 12 1 3
+
+20_51532825
+genotypes . G/G
+frequency 15 1
+
+20_51533652
+genotypes . G/G
+frequency 15 1
+
+20_51533819
+genotypes . G/G
+frequency 15 1
+
+20_51536543
+genotypes . G/G
+frequency 15 1
+
+20_51536561
+genotypes . T/T
+frequency 15 1
+
+20_51536603
+genotypes . G/G
+frequency 15 1
+
+20_51537227
+genotypes . C/C
+frequency 15 1
+
+20_51537298
+genotypes . C/C
+frequency 15 1
+
+20_51539590
+genotypes . T/T
+frequency 15 1
+
+20_51539673
+genotypes . C/C
+frequency 15 1
+
+20_51539674
+genotypes . G/G
+frequency 15 1
+
+20_51539763
+genotypes . T/T
+frequency 15 1
+
+20_51540252
+genotypes . C/C
+frequency 15 1
+
+20_51540263
+genotypes . G/G
+frequency 15 1
+
+20_51540377
+genotypes . C/C
+frequency 15 1
+
+20_51540694
+genotypes . C/C
+frequency 15 1
+
+20_51540701
+genotypes . G/G
+frequency 15 1
+
+20_51541323
+genotypes . A/G G/G
+frequency 11 1 4
+
+20_51541393
+genotypes . G/C G/G
+frequency 11 1 4
+
+20_51542504
+genotypes . G/G G/T
+frequency 12 3 1
+
+20_51543237
+genotypes . C/C T/T
+frequency 14 1 1
+
+20_51543447
+genotypes . A/A A/G G/G
+frequency 11 1 1 3
+
+20_51543718
+genotypes . T/G T/T
+frequency 14 1 1
+
+20_51543837
+genotypes . C/C T/C
+frequency 14 1 1
+
+20_51544027
+genotypes . C/C T/C
+frequency 14 1 1
+
+20_51545192
+genotypes . C/C
+frequency 13 3
+
+20_51545946
+genotypes . A/A
+frequency 11 5
+
+20_51546513
+genotypes . T/A T/T
+frequency 12 1 3
+
+20_51548385
+genotypes . A/A
+frequency 15 1
+
+20_51548571
+genotypes . G/G
+frequency 15 1
+
+20_51548777
+genotypes . G/G
+frequency 15 1
+
+20_51548836
+genotypes . C/C
+frequency 14 2
+
+20_51550103
+genotypes . A/C
+frequency 14 2
+
+20_51551464
+genotypes . A/A
+frequency 15 1
+
+20_51551563
+genotypes . C/C
+frequency 15 1
+
+20_51551569
+genotypes . T/T
+frequency 15 1
+
+20_51552258
+genotypes . C/C
+frequency 15 1
+
+20_51552285
+genotypes . A/A A/G
+frequency 14 1 1
+
+20_51552725
+genotypes . G/A G/G
+frequency 13 1 2
+
+20_51552846
+genotypes . A/A
+frequency 15 1
+
+20_51555777
+genotypes . G/G
+frequency 14 2
+
+20_51556177
+genotypes . C/C
+frequency 15 1
+
+20_51558103
+genotypes . G/G
+frequency 15 1
+
+20_51558196
+genotypes . T/T
+frequency 15 1
+
+20_51558259
+genotypes . G/G
+frequency 15 1
+
+20_51561495
+genotypes . T/C T/T
+frequency 14 1 1
+
+20_51562480
+genotypes . A/A
+frequency 15 1
+
+20_51563529
+genotypes . A/A A/G
+frequency 9 6 1
+
+20_51564550
+genotypes . T/T
+frequency 15 1
+
+20_51564987
+genotypes . A/A
+frequency 15 1
+
+20_51565080
+genotypes . A/A
+frequency 15 1
+
+20_51565125
+genotypes . T/T
+frequency 15 1
+
+20_51565611
+genotypes . C/C
+frequency 15 1
+
+20_51567612
+genotypes . A/A A/G
+frequency 13 2 1
+
+20_51569009
+genotypes . C/C
+frequency 15 1
+
+20_51571506
+genotypes . G/C
+frequency 14 2
+
+20_51575708
+genotypes T/C T/T
+frequency 1 15
+
+20_51577969
+genotypes . T/T
+frequency 15 1
+
+20_51579689
+genotypes . G/G
+frequency 13 3
+
+20_51579814
+genotypes . G/G G/T
+frequency 13 2 1
+
+20_51580520
+genotypes . T/C T/T
+frequency 13 1 2
+
+20_51581141
+genotypes . T/T
+frequency 14 2
+
+20_51581362
+genotypes . C/G
+frequency 14 2
+
+20_51581371
+genotypes . A/G
+frequency 14 2
+
+20_51581373
+genotypes . A/C
+frequency 14 2
+
+20_51581790
+genotypes . T/T
+frequency 12 4
+
+20_51581882
+genotypes . A/A G/A
+frequency 13 2 1
+
+20_51582362
+genotypes . A/A
+frequency 15 1
+
+20_51582650
+genotypes . T/T
+frequency 15 1
+
+20_51583869
+genotypes . C/C
+frequency 15 1
+
+20_51583905
+genotypes . A/A
+frequency 15 1
+
+20_51585245
+genotypes . G/G
+frequency 15 1
+
+20_51585269
+genotypes . G/G
+frequency 15 1
+
+20_51586733
+genotypes . G/C
+frequency 14 2
+
+20_51587086
+genotypes . G/C
+frequency 14 2
+
+20_51587515
+genotypes . T/T
+frequency 15 1
+
+20_51587530
+genotypes . C/C
+frequency 15 1
+
+20_51587916
+genotypes . A/G G/G
+frequency 13 1 2
+
+20_51588483
+genotypes . G/G
+frequency 15 1
+
+20_51588573
+genotypes . A/A
+frequency 15 1
+
+20_51588903
+genotypes . C/C
+frequency 15 1
+
+20_51589321
+genotypes . G/G
+frequency 15 1
+
+20_51589522
+genotypes . A/A A/G G/G
+frequency 11 3 1 1
+
+20_51590013
+genotypes . C/C
+frequency 15 1
+
+20_51590055
+genotypes . T/C
+frequency 14 2
+
+20_51590226
+genotypes . T/G T/T
+frequency 12 1 3
+
+20_51590471
+genotypes . A/T T/T
+frequency 13 1 2
+
+20_51590550
+genotypes . G/A
+frequency 14 2
+
+20_51590735
+genotypes . T/G
+frequency 14 2
+
+20_51591520
+genotypes . A/A
+frequency 15 1
+
+20_51591730
+genotypes . T/C
+frequency 14 2
+
+20_51591836
+genotypes . C/C
+frequency 14 2
+
+20_51592445
+genotypes . C/G G/G
+frequency 14 1 1
+
+20_51593165
+genotypes . C/A C/C
+frequency 13 1 2
+
+20_51593992
+genotypes . G/G G/T
+frequency 12 3 1
+
+20_51594796
+genotypes . G/G
+frequency 15 1
+
+20_51594983
+genotypes . A/A
+frequency 14 2
+
+20_51597953
+genotypes . T/G T/T
+frequency 13 1 2
+
+20_51598449
+genotypes . A/A C/C
+frequency 11 3 2
+
+20_51599422
+genotypes . C/C
+frequency 15 1
+
+20_51599553
+genotypes . A/A A/G
+frequency 13 2 1
+
+20_51600647
+genotypes . A/A C/A
+frequency 1 12 3
+
+20_51600649
+genotypes . C/C T/C
+frequency 1 12 3
+
+20_51600651
+genotypes . G/T T/T
+frequency 1 11 4
+
+20_51600668
+genotypes G/C G/G
+frequency 4 12
+
+20_51603888
+genotypes G/A G/G
+frequency 4 12
+
+20_51603984
+genotypes C/C C/T
+frequency 12 4
+
+20_51603991
+genotypes . G/T
+frequency 12 4
+
+20_51604362
+genotypes . A/A A/G
+frequency 12 3 1
+
+20_51604862
+genotypes . C/A C/C
+frequency 13 1 2
+
+20_51605177
+genotypes . A/A A/C
+frequency 12 3 1
+
+20_51607816
+genotypes . C/C C/T
+frequency 13 2 1
+
+20_51608022
+genotypes . C/C C/G
+frequency 13 2 1
+
+20_51608604
+genotypes . A/A
+frequency 15 1
+
+20_51609172
+genotypes . C/C
+frequency 15 1
+
+20_51609830
+genotypes . A/A A/G
+frequency 12 3 1
+
+20_51610009
+genotypes . A/A A/G
+frequency 10 5 1
+
+20_51610053
+genotypes . G/G
+frequency 10 6
+
+20_51610383
+genotypes . C/C C/T
+frequency 13 2 1
+
+20_51610466
+genotypes . G/C G/G
+frequency 12 1 3
+
+20_51611580
+genotypes . G/G G/T
+frequency 12 3 1
+
+20_51612272
+genotypes . G/A G/G
+frequency 12 3 1
+
+20_51612534
+genotypes . A/A A/G G/G
+frequency 11 3 1 1
+
+20_51612581
+genotypes . C/C C/G
+frequency 11 4 1
+
+20_51612776
+genotypes . G/C G/G
+frequency 11 1 4
+
+20_51612864
+genotypes . A/A G/A
+frequency 12 3 1
+
+20_51613023
+genotypes . G/G G/T
+frequency 8 7 1
+
+20_51613121
+genotypes . A/A C/A
+frequency 8 3 5
+
+20_51613139
+genotypes . G/A G/G
+frequency 8 1 7
+
+20_51613387
+genotypes . A/C C/C
+frequency 7 4 5
+
+20_51613695
+genotypes . T/C T/T
+frequency 5 5 6
+
+20_51614235
+genotypes . A/A A/G G/G
+frequency 12 1 1 2
+
+20_51614562
+genotypes . G/G G/T
+frequency 12 3 1
+
+20_51615448
+genotypes . C/C T/C
+frequency 13 2 1
+
+20_51616404
+genotypes . C/C C/T
+frequency 12 3 1
+
+20_51617379
+genotypes A/A A/G G/G
+frequency 5 5 6
+
+20_51617547
+genotypes G/A G/G
+frequency 2 14
+
+20_51617994
+genotypes A/A A/G G/G
+frequency 11 4 1
+
+20_51618110
+genotypes C/C C/T
+frequency 15 1
+
+20_51618446
+genotypes C/C C/T
+frequency 15 1
+
+20_51618465
+genotypes C/C C/T
+frequency 14 2
+
+20_51618622
+genotypes . G/A G/G
+frequency 13 1 2
+
+20_51619368
+genotypes . T/T
+frequency 15 1
+
+20_51620253
+genotypes . A/A
+frequency 15 1
+
+20_51620306
+genotypes . A/A A/G
+frequency 14 1 1
+
+20_51620806
+genotypes . G/G
+frequency 15 1
+
+20_51620872
+genotypes . G/G
+frequency 15 1
+
+20_51621790
+genotypes . T/T
+frequency 11 5
+
+20_51622046
+genotypes . C/G
+frequency 14 2
+
+20_51622507
+genotypes . A/A
+frequency 15 1
+
+20_51624719
+genotypes . T/C T/T
+frequency 14 1 1
+
+20_51625153
+genotypes . T/T
+frequency 15 1
+
+20_51625191
+genotypes . T/C
+frequency 14 2
+
+20_51625395
+genotypes . A/A T/A
+frequency 12 1 3
+
+20_51626961
+genotypes . C/C
+frequency 15 1
+
+20_51627365
+genotypes . A/A A/T
+frequency 14 1 1
+
+20_51627792
+genotypes . C/C
+frequency 15 1
+
+20_51630697
+genotypes . C/C
+frequency 15 1
+
+20_51632664
+genotypes . G/C
+frequency 14 2
+
+20_51633333
+genotypes . T/T
+frequency 15 1
+
+20_51635522
+genotypes . G/C G/G
+frequency 14 1 1
+
+20_51635665
+genotypes . C/T
+frequency 14 2
+
+20_51636192
+genotypes . G/G G/T
+frequency 14 1 1
+
+20_51639391
+genotypes . A/A G/A
+frequency 14 1 1
+
+20_51639772
+genotypes . T/G T/T
+frequency 13 1 2
+
+20_51640762
+genotypes . C/A
+frequency 15 1
+
+20_51642790
+genotypes . G/G G/T
+frequency 5 10 1
+
+20_51643059
+genotypes . G/G GC/G
+frequency 4 10 2
+
+20_51643089
+genotypes . A/A A/C
+frequency 5 10 1
+
+20_51644072
+genotypes . T/C T/T
+frequency 12 1 3
+
+20_51644916
+genotypes . T/T T/TTT
+frequency 7 8 1
+
+20_51644979
+genotypes . A/A A/G
+frequency 6 9 1
+
+20_51644980
+genotypes . A/A A/C
+frequency 5 10 1
+
+20_51644994
+genotypes . A/A A/G
+frequency 6 9 1
+
+20_51645288
+genotypes . G/A G/G
+frequency 6 2 8
+
+20_51645512
+genotypes . T/C T/T
+frequency 3 2 11
+
+20_51645919
+genotypes . A/A A/G
+frequency 6 9 1
+
+20_51646790
+genotypes . T/C T/T
+frequency 8 1 7
+
+20_51647142
+genotypes . A/A A/G G/G
+frequency 7 4 2 3
+
+20_51647224
+genotypes . C/C C/T T/T
+frequency 5 8 1 2
+
+20_51647312
+genotypes . T/A T/T
+frequency 5 1 10
+
+20_51647394
+genotypes . T/G T/T
+frequency 6 1 9
+
+20_51647427
+genotypes . G/A G/G
+frequency 6 1 9
+
+20_51647623
+genotypes . T/G T/T
+frequency 4 1 11
+
+20_51647701
+genotypes . T/G T/T
+frequency 4 1 11
+
+20_51647711
+genotypes . A/A A/G
+frequency 6 9 1
+
+20_51648293
+genotypes . C/A C/C
+frequency 7 1 8
+
+20_51648407
+genotypes . G/A G/G
+frequency 4 1 11
+
+20_51648436
+genotypes . A/A A/G
+frequency 4 11 1
+
+20_51648528
+genotypes . T/C T/T
+frequency 6 1 9
+
+20_51648869
+genotypes . A/A A/G
+frequency 4 11 1
+
+20_51649072
+genotypes . G/G T/G T/T
+frequency 5 3 2 6
+
+20_51649244
+genotypes . C/C C/G
+frequency 2 13 1
+
+20_51649402
+genotypes . A/A A/G
+frequency 1 13 2
+
+20_51649638
+genotypes . T/C T/T
+frequency 5 1 10
+
+20_51649750
+genotypes . C/C T/T
+frequency 5 1 10
+
+20_51650123
+genotypes . A/A
+frequency 15 1
+
+20_51650216
+genotypes . A/G G/G
+frequency 13 1 2
+
+20_51650249
+genotypes . C/T T/T
+frequency 13 1 2
+
+20_51650853
+genotypes . C/C T/C
+frequency 13 2 1
+
+20_51651318
+genotypes . A/A A/G
+frequency 11 4 1
+
+20_51651699
+genotypes . G/C G/G
+frequency 10 1 5
+
+20_51651803
+genotypes . C/T
+frequency 14 2
+
+20_51652014
+genotypes . T/C
+frequency 14 2
+
+20_51652672
+genotypes . T/C T/T
+frequency 10 1 5
+
+20_51653047
+genotypes . A/A A/G
+frequency 11 4 1
+
+20_51653386
+genotypes . C/C C/T
+frequency 12 3 1
+
+20_51653482
+genotypes . C/C T/C
+frequency 12 3 1
+
+20_51653522
+genotypes . T/C T/T
+frequency 12 1 3
+
+20_51653539
+genotypes . A/G G/G
+frequency 11 2 3
+
+20_51653749
+genotypes . G/G
+frequency 15 1
+
+20_51654183
+genotypes . A/A G/A G/G
+frequency 9 1 2 4
+
+20_51654243
+genotypes . G/A G/G
+frequency 9 3 4
+
+20_51654691
+genotypes . A/A G/G
+frequency 9 6 1
+
+20_51654818
+genotypes . A/A G/G
+frequency 11 1 4
+
+20_51654894
+genotypes . A/A G/A
+frequency 10 4 2
+
+20_51655290
+genotypes . C/C C/T
+frequency 10 5 1
+
+20_51655325
+genotypes . A/A A/G
+frequency 10 4 2
+
+20_51655444
+genotypes . T/C T/T
+frequency 10 1 5
+
+20_51655884
+genotypes . C/C C/T
+frequency 11 3 2
+
+20_51657294
+genotypes . A/A
+frequency 13 3
+
+20_51657351
+genotypes . G/G
+frequency 13 3
+
+20_51657375
+genotypes . G/A G/G
+frequency 13 1 2
+
+20_51658362
+genotypes . T/A T/T
+frequency 14 1 1
+
+20_51658923
+genotypes . A/A A/G
+frequency 11 4 1
+
+20_51659897
+genotypes . C/C
+frequency 15 1
+
+20_51661050
+genotypes . T/T
+frequency 13 3
+
+20_51661098
+genotypes . C/C C/T
+frequency 13 2 1
+
+20_51661660
+genotypes . T/T
+frequency 15 1
+
+20_51662263
+genotypes . G/G
+frequency 15 1
+
+20_51665594
+genotypes . C/C
+frequency 15 1
+
+20_51666089
+genotypes . C/C
+frequency 15 1
+
+20_51666216
+genotypes . C/C
+frequency 15 1
+
+20_51666355
+genotypes . A/A
+frequency 15 1
+
+20_51666912
+genotypes . T/C
+frequency 14 2
+
+20_51667895
+genotypes . A/A A/C
+frequency 13 2 1
+
+20_51668024
+genotypes . T/C T/T
+frequency 10 1 5
+
+20_51668871
+genotypes . G/A
+frequency 14 2
+
+20_51669092
+genotypes . G/C G/G
+frequency 14 1 1
+
+20_51669285
+genotypes . T/T
+frequency 14 2
+
+20_51670140
+genotypes . G/G
+frequency 14 2
+
+20_51670494
+genotypes . A/A A/C A/T
+frequency 9 5 1 1
+
+20_51670625
+genotypes . C/C G/C G/G
+frequency 3 1 6 6
+
+20_51670671
+genotypes . T/G T/T
+frequency 12 1 3
+
+20_51670717
+genotypes . T/G T/T
+frequency 12 1 3
+
+20_51670719
+genotypes . T/G T/T
+frequency 12 1 3
+
+20_51671953
+genotypes . A/A A/G
+frequency 13 2 1
+
+20_51672930
+genotypes . A/A A/G
+frequency 13 2 1
+
+20_51674171
+genotypes . A/A
+frequency 15 1
+
+20_51674606
+genotypes . G/G
+frequency 15 1
+
+20_51675662
+genotypes . T/C T/T
+frequency 13 1 2
+
+20_51675928
+genotypes . A/A A/G
+frequency 13 2 1
+
+20_51676013
+genotypes . T/C T/T
+frequency 14 1 1
+
+20_51676414
+genotypes . A/A
+frequency 15 1
+
+20_51676542
+genotypes . A/G
+frequency 14 2
+
+20_51676572
+genotypes . A/A A/C
+frequency 13 2 1
+
+20_51677570
+genotypes . A/T
+frequency 14 2
+
+20_51677652
+genotypes . T/C
+frequency 14 2
+
+20_51678015
+genotypes . C/A C/C
+frequency 12 1 3
+
+20_51678164
+genotypes . C/C T/C
+frequency 14 1 1
+
+20_51679365
+genotypes . G/G
+frequency 15 1
+
+20_51679369
+genotypes . G/G
+frequency 15 1
+
+20_51679430
+genotypes . G/G
+frequency 15 1
+
+20_51679537
+genotypes . C/C
+frequency 15 1
+
+20_51679729
+genotypes . G/G
+frequency 13 3
+
+20_51679753
+genotypes . G/G
+frequency 14 2
+
+20_51679869
+genotypes . C/T
+frequency 14 2
+
+20_51680697
+genotypes . T/C T/T
+frequency 11 1 4
+
+20_51681813
+genotypes . G/A G/G
+frequency 13 1 2
+
+20_51683012
+genotypes . A/A G/A
+frequency 13 2 1
+
+20_51683263
+genotypes . A/A
+frequency 15 1
+
+20_51683316
+genotypes . A/A
+frequency 15 1
+
+20_51683663
+genotypes . T/C T/T
+frequency 13 1 2
+
+20_51683667
+genotypes . G/G T/G
+frequency 13 2 1
+
+20_51684328
+genotypes . C/C C/G
+frequency 11 3 2
+
+20_51684881
+genotypes . A/A A/G
+frequency 13 2 1
+
+20_51685537
+genotypes . T/G T/T
+frequency 14 1 1
+
+20_51685755
+genotypes . A/A A/G
+frequency 10 5 1
+
+20_51685840
+genotypes . G/C G/G
+frequency 12 1 3
+
+20_51686041
+genotypes . G/A G/G
+frequency 13 1 2
+
+20_51686234
+genotypes . G/G G/T
+frequency 13 2 1
+
+20_51686630
+genotypes . C/G G/G
+frequency 12 1 3
+
+20_51686762
+genotypes . G/G
+frequency 15 1
+
+20_51688710
+genotypes . A/A A/C
+frequency 13 2 1
+
+20_51690120
+genotypes . C/C C/T
+frequency 10 5 1
+
+20_51690761
+genotypes . G/C G/G
+frequency 6 3 7
+
+20_51691239
+genotypes . A/A A/G G/G
+frequency 8 1 1 6
+
+20_51691391
+genotypes . A/G G/G
+frequency 7 2 7
+
+20_51692649
+genotypes . A/A A/C
+frequency 7 8 1
+
+20_51692675
+genotypes . T/C T/T
+frequency 7 1 8
+
+20_51692822
+genotypes . T/C T/T
+frequency 8 1 7
+
+20_51692929
+genotypes . C/A C/C
+frequency 10 1 5
+
+20_51693102
+genotypes . C/A
+frequency 13 3
+
+20_51693277
+genotypes . T/C T/T
+frequency 11 1 4
+
+20_51694352
+genotypes . G/G G/T
+frequency 7 7 2
+
+20_51694403
+genotypes . G/A G/G
+frequency 10 2 4
+
+20_51696138
+genotypes . T/A T/T
+frequency 9 1 6
+
+20_51696399
+genotypes . C/C T/C
+frequency 6 8 2
+
+20_51697434
+genotypes . T/C T/T
+frequency 9 3 4
+
+20_51698685
+genotypes . G/G
+frequency 12 4
+
+20_51699414
+genotypes . A/G G/G
+frequency 8 2 6
+
+20_51701498
+genotypes . T/C T/T
+frequency 10 1 5
+
+20_51701744
+genotypes . A/A A/T
+frequency 6 9 1
+
+20_51701749
+genotypes . C/A C/C
+frequency 6 1 9
+
+20_51702388
+genotypes . A/A A/G
+frequency 8 7 1
+
+20_51705272
+genotypes . G/G G/T
+frequency 8 6 2
+
+20_51705305
+genotypes . A/A A/T
+frequency 8 7 1
+
+20_51705306
+genotypes . C/A C/C
+frequency 9 1 6
+
+20_51705407
+genotypes . G/A G/G
+frequency 7 1 8
+
+20_51705476
+genotypes . A/A G/A G/G
+frequency 4 8 3 1
+
+20_51706290
+genotypes . G/A G/G
+frequency 3 3 10
+
+20_51706515
+genotypes . A/A A/AA
+frequency 4 9 3
+
+20_51706868
+genotypes . G/A G/G
+frequency 1 1 14
+
+20_51706965
+genotypes G/A G/G
+frequency 1 15
+
+20_51707182
+genotypes T/G T/T
+frequency 1 15
+
+20_51707285
+genotypes . T/C T/T
+frequency 1 1 14
+
+20_51707440
+genotypes . T/T T/TT
+frequency 3 8 5
+
+20_51707533
+genotypes . A/A A/G G/G
+frequency 3 1 7 5
+
+20_51707765
+genotypes . G/A G/G
+frequency 2 1 13
+
+20_51707894
+genotypes . C/C C/CAC CAC/CAC
+frequency 2 1 4 9
+
+20_51708071
+genotypes . C/C T/C T/T
+frequency 4 2 1 9
+
+20_51708227
+genotypes . A/A G/A G/G
+frequency 5 3 2 6
+
+20_51708589
+genotypes . T/C T/T
+frequency 3 1 12
+
+20_51708630
+genotypes . C/C C/T
+frequency 1 12 3
+
+20_51708757
+genotypes . T/C T/T
+frequency 1 1 14
+
+20_51708907
+genotypes G/A G/G
+frequency 1 15
+
+20_51708980
+genotypes . C/C C/T T/T
+frequency 1 3 7 5
+
+20_51709267
+genotypes T/T T/TT
+frequency 13 3
+
+20_51709311
+genotypes . A/A A/G
+frequency 3 11 2
+
+20_51709589
+genotypes A/A A/G
+frequency 14 2
+
+20_51710394
+genotypes . A/A A/G
+frequency 1 12 3
+
+20_51710478
+genotypes . G/C G/G
+frequency 2 1 13
+
+20_51711339
+genotypes T/C T/T
+frequency 4 12
+
+20_51711372
+genotypes A/A A/AA
+frequency 15 1
+
+20_51711395
+genotypes A/A A/AA
+frequency 11 5
+
+20_51712098
+genotypes . A/A A/T
+frequency 1 14 1
+
+20_51712115
+genotypes C/C T/C T/T
+frequency 1 2 13
+
+20_51712228
+genotypes G/A G/G
+frequency 3 13
+
+20_51712468
+genotypes C/C C/T
+frequency 14 2
+
+20_51712773
+genotypes C/C C/T
+frequency 14 2
+
+20_51712828
+genotypes A/A A/G
+frequency 15 1
+
+20_51712962
+genotypes T/G T/T
+frequency 1 15
+
+20_51713002
+genotypes C/C C/T T/T
+frequency 10 3 3
+
+20_51714009
+genotypes . A/A A/G G/G
+frequency 9 4 2 1
+
+20_51714244
+genotypes . G/C G/G
+frequency 9 1 6
+
+20_51714420
+genotypes . T/C T/T
+frequency 11 1 4
+
+20_51714421
+genotypes . G/C G/G
+frequency 10 1 5
+
+20_51714451
+genotypes . C/C C/T
+frequency 10 5 1
+
+20_51715157
+genotypes . C/C T/C T/T
+frequency 7 6 2 1
+
+20_51715617
+genotypes . A/A A/G
+frequency 4 11 1
+
+20_51715683
+genotypes . T/C T/T
+frequency 7 1 8
+
+20_51716052
+genotypes . A/A A/G
+frequency 6 9 1
+
+20_51716064
+genotypes . C/A C/C
+frequency 4 1 11
+
+20_51716879
+genotypes . C/C C/T T/T
+frequency 7 6 2 1
+
+20_51717235
+genotypes . A/A A/T
+frequency 7 8 1
+
+20_51717300
+genotypes . T/C T/T
+frequency 4 1 11
+
+20_51717485
+genotypes . C/C T/C T/T
+frequency 5 7 3 1
+
+20_51717887
+genotypes . G/G T/G T/T
+frequency 5 5 2 4
+
+20_51718201
+genotypes . C/C C/T
+frequency 2 12 2
+
+20_51719263
+genotypes . C/C C/T T/T
+frequency 1 1 5 9
+
+20_51719492
+genotypes A/A A/G
+frequency 15 1
+
+20_51719886
+genotypes . G/C G/G
+frequency 3 4 9
+
+20_51720515
+genotypes G/A G/G
+frequency 1 15
+
+20_51720541
+genotypes . G/A G/G
+frequency 2 1 13
+
+20_51720595
+genotypes . C/C C/T
+frequency 1 13 2
+
+20_51720623
+genotypes . G/A G/G
+frequency 2 5 9
+
+20_51720832
+genotypes . A/A A/AA
+frequency 3 9 4
+
+20_51721030
+genotypes . G/A G/G
+frequency 3 1 12
+
+20_51721215
+genotypes . C/C G/C G/G
+frequency 3 7 3 3
+
+20_51721422
+genotypes . G/A G/G
+frequency 2 1 13
+
+20_51721758
+genotypes . A/A G/A G/G
+frequency 1 10 4 1
+
+20_51722014
+genotypes . C/C C/T T/T
+frequency 3 8 3 2
+
+20_51722146
+genotypes C/C T/C T/T
+frequency 1 3 12
+
+20_51722827
+genotypes C/C G/C G/G
+frequency 1 1 14
+
+20_51722920
+genotypes A/A A/G G/G
+frequency 2 6 8
+
+20_51723481
+genotypes A/A G/A G/G
+frequency 3 7 6
+
+20_51723724
+genotypes . A/A A/G
+frequency 3 11 2
+
+20_51723885
+genotypes . C/C C/T
+frequency 1 14 1
+
+20_51723902
+genotypes . C/C C/T
+frequency 2 13 1
+

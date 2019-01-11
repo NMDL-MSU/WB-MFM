@@ -1,0 +1,503 @@
+# Genotype frequencies per coding snp for PDLIM3
+# SNP names consist of chromosome_position
+
+27_24651566
+genotypes . G/G
+frequency 2 14
+
+27_24651575
+genotypes A/A
+frequency 16
+
+27_24651577
+genotypes T/T
+frequency 16
+
+27_24651584
+genotypes A/A
+frequency 16
+
+27_24651585
+genotypes G/G
+frequency 16
+
+27_24651587
+genotypes C/C
+frequency 16
+
+27_24651640
+genotypes . A/A
+frequency 15 1
+
+27_24652064
+genotypes . C/C C/G G/G
+frequency 9 3 2 2
+
+27_24656964
+genotypes . G/G
+frequency 15 1
+
+27_24658112
+genotypes . G/G
+frequency 15 1
+
+27_24660380
+genotypes . G/G
+frequency 14 2
+
+27_24660535
+genotypes . G/G
+frequency 15 1
+
+27_24661217
+genotypes . C/C
+frequency 15 1
+
+27_24661960
+genotypes . A/A A/G
+frequency 13 2 1
+
+27_24661988
+genotypes G/G T/G
+frequency 13 3
+
+27_24662611
+genotypes . G/A G/G
+frequency 1 3 12
+
+27_24662903
+genotypes . G/A G/G
+frequency 3 1 12
+
+27_24663625
+genotypes . G/A G/G
+frequency 2 1 13
+
+27_24663719
+genotypes C/A C/C
+frequency 1 15
+
+27_24664437
+genotypes . A/A G/A G/G
+frequency 2 2 5 7
+
+27_24664772
+genotypes . G/G G/T T/T
+frequency 3 2 4 7
+
+27_24664830
+genotypes . C/A C/C
+frequency 3 2 11
+
+27_24664831
+genotypes . A/A A/G
+frequency 3 11 2
+
+27_24665213
+genotypes . G/A G/G
+frequency 4 2 10
+
+27_24665269
+genotypes . C/C C/T
+frequency 3 12 1
+
+27_24665273
+genotypes . C/C C/G
+frequency 4 11 1
+
+27_24665425
+genotypes . C/A C/C
+frequency 5 2 9
+
+27_24665459
+genotypes . C/A C/C
+frequency 4 2 10
+
+27_24665704
+genotypes . A/A A/T
+frequency 4 8 4
+
+27_24665720
+genotypes . C/A C/C
+frequency 5 1 10
+
+27_24666279
+genotypes . G/A G/G
+frequency 3 2 11
+
+27_24666487
+genotypes . T/G T/T
+frequency 4 4 8
+
+27_24666617
+genotypes . C/C C/G G/G
+frequency 2 6 3 5
+
+27_24667187
+genotypes . T/C T/T
+frequency 2 2 12
+
+27_24667643
+genotypes . T/C T/T
+frequency 2 1 13
+
+27_24667776
+genotypes . G/C G/G
+frequency 1 1 14
+
+27_24668194
+genotypes . G/A G/G
+frequency 2 1 13
+
+27_24668277
+genotypes . A/G G/G
+frequency 1 4 11
+
+27_24668291
+genotypes . G/A G/G
+frequency 1 3 12
+
+27_24668355
+genotypes . A/A A/G
+frequency 2 12 2
+
+27_24668417
+genotypes . C/C C/G G/G
+frequency 2 9 4 1
+
+27_24668630
+genotypes . T/T
+frequency 3 13
+
+27_24669409
+genotypes A/A A/G
+frequency 14 2
+
+27_24669788
+genotypes G/A G/G
+frequency 2 14
+
+27_24670398
+genotypes A/A G/A
+frequency 12 4
+
+27_24670401
+genotypes G/C G/G
+frequency 1 15
+
+27_24670412
+genotypes A/A G/A
+frequency 12 4
+
+27_24671031
+genotypes C/C C/T
+frequency 13 3
+
+27_24671081
+genotypes G/A G/G
+frequency 1 15
+
+27_24671172
+genotypes A/A A/G G/G
+frequency 9 6 1
+
+27_24671302
+genotypes G/G G/T
+frequency 15 1
+
+27_24671415
+genotypes T/C T/T
+frequency 6 10
+
+27_24671432
+genotypes C/C C/G
+frequency 15 1
+
+27_24671535
+genotypes . G/A G/G
+frequency 4 4 8
+
+27_24671666
+genotypes A/A A/G
+frequency 15 1
+
+27_24671669
+genotypes C/T T/T
+frequency 2 14
+
+27_24671694
+genotypes C/C T/C T/T
+frequency 7 6 3
+
+27_24671752
+genotypes C/C C/T T/T
+frequency 8 7 1
+
+27_24671758
+genotypes A/A G/A G/G
+frequency 1 7 8
+
+27_24671827
+genotypes A/A A/T T/T
+frequency 7 8 1
+
+27_24671928
+genotypes A/A G/A G/G
+frequency 5 7 4
+
+27_24672176
+genotypes A/A G/A G/G
+frequency 3 9 4
+
+27_24672197
+genotypes C/C T/C T/T
+frequency 3 10 3
+
+27_24672307
+genotypes T/C T/T
+frequency 1 15
+
+27_24672318
+genotypes G/A G/G
+frequency 1 15
+
+27_24672727
+genotypes A/A G/A G/G
+frequency 3 9 4
+
+27_24673034
+genotypes A/A G/A G/G
+frequency 4 9 3
+
+27_24673220
+genotypes C/C T/C T/T
+frequency 4 9 3
+
+27_24673243
+genotypes C/C T/C T/T
+frequency 4 9 3
+
+27_24673258
+genotypes A/A A/T T/T
+frequency 3 9 4
+
+27_24673286
+genotypes A/A A/T
+frequency 15 1
+
+27_24673314
+genotypes G/A G/G
+frequency 5 11
+
+27_24673416
+genotypes C/C G/C G/G
+frequency 3 9 4
+
+27_24673457
+genotypes C/C T/C T/T
+frequency 3 9 4
+
+27_24673482
+genotypes A/A G/A G/G
+frequency 3 8 5
+
+27_24673536
+genotypes A/A A/T T/T
+frequency 4 9 3
+
+27_24673579
+genotypes A/A G/A
+frequency 14 2
+
+27_24673585
+genotypes G/G G/T T/T
+frequency 4 9 3
+
+27_24673629
+genotypes C/C C/G G/G
+frequency 8 6 2
+
+27_24673689
+genotypes A/A A/G G/G
+frequency 6 8 2
+
+27_24673708
+genotypes C/C C/T T/T
+frequency 4 9 3
+
+27_24673779
+genotypes G/A G/G
+frequency 1 15
+
+27_24674260
+genotypes C/C C/T
+frequency 15 1
+
+27_24674309
+genotypes C/C T/C T/T
+frequency 2 10 4
+
+27_24674332
+genotypes C/C C/T T/T
+frequency 4 9 3
+
+27_24674413
+genotypes T/C T/T
+frequency 4 12
+
+27_24674418
+genotypes C/C T/C T/T
+frequency 4 9 3
+
+27_24674421
+genotypes A/A C/A C/C
+frequency 4 9 3
+
+27_24674473
+genotypes C/C C/T T/T
+frequency 3 9 4
+
+27_24674542
+genotypes C/C C/T T/T
+frequency 3 9 4
+
+27_24674588
+genotypes C/C C/T T/T
+frequency 3 9 4
+
+27_24674618
+genotypes A/A A/G G/G
+frequency 2 9 5
+
+27_24674753
+genotypes C/C T/C T/T
+frequency 4 9 3
+
+27_24675389
+genotypes C/C C/T
+frequency 10 6
+
+27_24675536
+genotypes A/A C/A C/C
+frequency 2 8 6
+
+27_24675718
+genotypes C/C C/T
+frequency 15 1
+
+27_24675929
+genotypes A/A T/A T/T
+frequency 3 9 4
+
+27_24676335
+genotypes A/A G/A G/G
+frequency 2 9 5
+
+27_24676900
+genotypes T/A T/T
+frequency 1 15
+
+27_24676943
+genotypes A/A G/A G/G
+frequency 3 10 3
+
+27_24677544
+genotypes C/C C/T
+frequency 15 1
+
+27_24677665
+genotypes . G/G G/T
+frequency 9 6 1
+
+27_24677698
+genotypes . C/A C/C
+frequency 8 6 2
+
+27_24677835
+genotypes . C/C C/T
+frequency 8 4 4
+
+27_24677901
+genotypes . A/A A/G
+frequency 8 7 1
+
+27_24677935
+genotypes . C/C C/T T/T
+frequency 7 5 3 1
+
+27_24678316
+genotypes . A/A A/G
+frequency 10 5 1
+
+27_24678352
+genotypes . A/A A/G
+frequency 10 5 1
+
+27_24678691
+genotypes . C/C C/T
+frequency 10 5 1
+
+27_24679001
+genotypes . G/A G/G
+frequency 10 1 5
+
+27_24679010
+genotypes . T/A T/T
+frequency 9 1 6
+
+27_24679152
+genotypes . A/A A/G
+frequency 8 5 3
+
+27_24679566
+genotypes G/A G/G
+frequency 1 15
+
+27_24679567
+genotypes C/C T/C T/T
+frequency 3 11 2
+
+27_24679633
+genotypes . C/A C/C
+frequency 5 2 9
+
+27_24679643
+genotypes . G/T T/T
+frequency 5 1 10
+
+27_24679663
+genotypes . A/G G/G
+frequency 2 2 12
+
+27_24679740
+genotypes . A/A A/C C/C
+frequency 1 6 7 2
+
+27_24679992
+genotypes . C/C C/T
+frequency 2 12 2
+
+27_24679993
+genotypes . A/A A/G
+frequency 2 12 2
+
+27_24679996
+genotypes . A/A A/C
+frequency 2 13 1
+
+27_24680497
+genotypes . G/G G/T T/T
+frequency 1 13 1 1
+
+27_24680554
+genotypes . G/A G/G
+frequency 1 2 13
+
+27_24680557
+genotypes . T/G T/T
+frequency 1 2 13
+
+27_24680653
+genotypes . A/A G/A G/G
+frequency 2 1 3 10
+

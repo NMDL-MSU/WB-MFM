@@ -1,0 +1,399 @@
+# Genotype frequencies per coding snp for TIA1
+# SNP names consist of chromosome_position
+
+15_32298285
+genotypes . C/C
+frequency 15 1
+
+15_32298545
+genotypes . G/G
+frequency 15 1
+
+15_32304653
+genotypes T/C T/T
+frequency 1 15
+
+15_32305305
+genotypes . G/G
+frequency 12 4
+
+15_32305566
+genotypes . T/G T/T
+frequency 10 2 4
+
+15_32305682
+genotypes . A/A A/G
+frequency 9 6 1
+
+15_32305728
+genotypes . C/C
+frequency 9 7
+
+15_32305752
+genotypes . A/A A/G G/G
+frequency 10 1 2 3
+
+15_32306780
+genotypes . C/C C/T
+frequency 11 4 1
+
+15_32306938
+genotypes . A/A A/C
+frequency 12 3 1
+
+15_32307151
+genotypes . T/T T/TT
+frequency 11 4 1
+
+15_32307186
+genotypes . A/A A/G
+frequency 12 3 1
+
+15_32307215
+genotypes . C/C T/C
+frequency 10 5 1
+
+15_32307468
+genotypes . A/A A/G
+frequency 8 7 1
+
+15_32307651
+genotypes . A/A G/A
+frequency 7 8 1
+
+15_32308219
+genotypes . T/A T/T
+frequency 11 1 4
+
+15_32308495
+genotypes . G/G G/T
+frequency 9 6 1
+
+15_32308496
+genotypes . A/A A/T
+frequency 9 6 1
+
+15_32308874
+genotypes . T/C T/T
+frequency 6 1 9
+
+15_32309155
+genotypes . G/G
+frequency 13 3
+
+15_32309415
+genotypes A/A A/G
+frequency 15 1
+
+15_32309794
+genotypes . G/G
+frequency 15 1
+
+15_32310438
+genotypes G/A G/G
+frequency 1 15
+
+15_32310439
+genotypes T/C T/T
+frequency 1 15
+
+15_32310518
+genotypes . T/T T/TT
+frequency 2 11 3
+
+15_32310519
+genotypes . G/G G/T
+frequency 4 9 3
+
+15_32310523
+genotypes . G/G G/T
+frequency 6 8 2
+
+15_32311373
+genotypes . C/C C/T
+frequency 2 11 3
+
+15_32311498
+genotypes . G/A G/G
+frequency 2 1 13
+
+15_32311508
+genotypes . T/G T/T
+frequency 1 1 14
+
+15_32311572
+genotypes . C/C C/T
+frequency 4 11 1
+
+15_32312355
+genotypes . A/A A/G
+frequency 1 14 1
+
+15_32312474
+genotypes . TGG/TGG TGGG/TGG
+frequency 1 10 5
+
+15_32312475
+genotypes . T/T
+frequency 15 1
+
+15_32312583
+genotypes . G/A G/G
+frequency 2 2 12
+
+15_32312828
+genotypes . A/A
+frequency 5 11
+
+15_32312836
+genotypes . A/A A/G
+frequency 2 13 1
+
+15_32313138
+genotypes . A/A A/G G/G
+frequency 1 7 4 4
+
+15_32313299
+genotypes . C/C C/T
+frequency 1 13 2
+
+15_32313424
+genotypes . T/T T/TT
+frequency 3 11 2
+
+15_32313498
+genotypes G/A G/G
+frequency 1 15
+
+15_32314160
+genotypes T/T T/TT
+frequency 15 1
+
+15_32314281
+genotypes T/T T/TT
+frequency 12 4
+
+15_32314508
+genotypes . A/A A/G
+frequency 1 14 1
+
+15_32314690
+genotypes . C/T T/T
+frequency 1 3 12
+
+15_32315950
+genotypes . A/A A/C
+frequency 7 8 1
+
+15_32316027
+genotypes . T/C T/T
+frequency 8 1 7
+
+15_32316082
+genotypes . A/A A/G
+frequency 6 9 1
+
+15_32316339
+genotypes . A/A A/G
+frequency 6 9 1
+
+15_32316523
+genotypes . A/A A/G
+frequency 4 11 1
+
+15_32316569
+genotypes . A/A G/A
+frequency 6 9 1
+
+15_32316805
+genotypes . A/A A/G
+frequency 4 10 2
+
+15_32316943
+genotypes . A/A A/G
+frequency 8 7 1
+
+15_32317055
+genotypes . A/A A/G
+frequency 10 5 1
+
+15_32317146
+genotypes . A/A A/G
+frequency 10 3 3
+
+15_32317222
+genotypes . A/A A/G
+frequency 8 6 2
+
+15_32317223
+genotypes . A/A A/G
+frequency 8 6 2
+
+15_32317258
+genotypes . A/A A/G
+frequency 9 6 1
+
+15_32317513
+genotypes . T/A T/T
+frequency 5 1 10
+
+15_32317576
+genotypes . A/A G/A G/G
+frequency 4 1 3 8
+
+15_32317600
+genotypes . A/G G/G
+frequency 8 1 7
+
+15_32318134
+genotypes . A/A A/T
+frequency 5 8 3
+
+15_32318168
+genotypes . CT/CT CTT/CT
+frequency 2 11 3
+
+15_32318471
+genotypes . C/A C/C
+frequency 4 1 11
+
+15_32318478
+genotypes . A/A A/AA AA/AA
+frequency 3 9 3 1
+
+15_32318681
+genotypes . AAAAAA/AAAAAA AAAAAA/AAAAAAA
+frequency 2 12 2
+
+15_32318686
+genotypes . A/A A/AA
+frequency 2 12 2
+
+15_32318819
+genotypes C/C C/T
+frequency 15 1
+
+15_32318838
+genotypes C/C C/CA CA/CA
+frequency 1 4 11
+
+15_32318903
+genotypes . C/C C/T
+frequency 1 14 1
+
+15_32319003
+genotypes . G/C G/G
+frequency 3 1 12
+
+15_32319135
+genotypes . C/C C/T
+frequency 1 14 1
+
+15_32319298
+genotypes . TGGGGGGG/TGGGGGGG TGGGGGGG/TGGGGGGGG TGGGGGGGG/TGGGGGGGG
+frequency 1 2 6 7
+
+15_32319299
+genotypes . GGGGGGG/GGGGGGG GGGGGGG/GGGGGGGG GGGGGGGG/GGGGGGGG
+frequency 1 2 5 8
+
+15_32319305
+genotypes . G/G G/GG GG/GG
+frequency 1 1 10 4
+
+15_32319591
+genotypes . T/T T/TATT
+frequency 1 14 1
+
+15_32319593
+genotypes . T/C T/T
+frequency 1 1 14
+
+15_32319682
+genotypes . T/C T/T
+frequency 2 1 13
+
+15_32319839
+genotypes . C/A C/C
+frequency 1 2 13
+
+15_32319974
+genotypes C/C C/T
+frequency 14 2
+
+15_32320041
+genotypes . ACCCCCCC/ACCCCCCC ACCCCCCCC/ACCCCCCC ACCCCCCCC/ACCCCCCCC
+frequency 3 1 8 4
+
+15_32320056
+genotypes . A/C C/C
+frequency 3 2 11
+
+15_32320173
+genotypes A/A A/G
+frequency 15 1
+
+15_32320223
+genotypes G/C G/G
+frequency 1 15
+
+15_32320251
+genotypes T/T T/TT
+frequency 13 3
+
+15_32320527
+genotypes . T/T T/TT
+frequency 2 11 3
+
+15_32320550
+genotypes . A/A A/G G/G
+frequency 2 1 8 5
+
+15_32320569
+genotypes . A/A A/G
+frequency 3 9 4
+
+15_32320608
+genotypes . A/A A/G
+frequency 6 8 2
+
+15_32320662
+genotypes . AGG/AGG AGGG/AGG
+frequency 3 9 4
+
+15_32320756
+genotypes . T/T
+frequency 6 10
+
+15_32323275
+genotypes . C/T T/T
+frequency 11 1 4
+
+15_32323527
+genotypes . CTTTTTTTTTT/CTTTTTTTTTT CTTTTTTTTTTTT/CTTTTTTTTTT
+frequency 14 1 1
+
+15_32323942
+genotypes . G/G G/T T/T
+frequency 6 2 3 5
+
+15_32324427
+genotypes . A/A G/A
+frequency 6 9 1
+
+15_32324497
+genotypes . T/T T/TT
+frequency 6 9 1
+
+15_32324639
+genotypes . C/A C/C
+frequency 5 1 10
+
+15_32324690
+genotypes . A/G G/G
+frequency 4 4 8
+
+15_32324709
+genotypes . C/C C/T
+frequency 5 8 3
+
