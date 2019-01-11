@@ -1,0 +1,71 @@
+# Genotype frequencies per coding snp for CRYAB
+# SNP names consist of chromosome_position
+
+7_20467532
+genotypes A/A A/G
+frequency 15 1
+
+7_20467680
+genotypes . C/C C/T T/T
+frequency 1 9 4 2
+
+7_20467779
+genotypes . C/C T/C T/T
+frequency 1 2 5 8
+
+7_20468132
+genotypes G/A G/G
+frequency 2 14
+
+7_20468220
+genotypes . A/A G/A G/G
+frequency 1 2 4 9
+
+7_20468297
+genotypes A/A A/T T/T
+frequency 10 5 1
+
+7_20468367
+genotypes G/G G/T T/T
+frequency 9 6 1
+
+7_20468404
+genotypes . G/A G/G
+frequency 1 1 14
+
+7_20468600
+genotypes . A/A G/A G/G
+frequency 2 2 4 8
+
+7_20468898
+genotypes C/C C/G C/T T/T
+frequency 7 1 6 2
+
+7_20469012
+genotypes C/C T/C T/T
+frequency 3 5 8
+
+7_20469352
+genotypes A/A A/T
+frequency 15 1
+
+7_20469371
+genotypes G/A G/G
+frequency 1 15
+
+7_20469688
+genotypes A/A G/A G/G
+frequency 3 5 8
+
+7_20469845
+genotypes T/G T/T
+frequency 12 4
+
+7_20469846
+genotypes T/C T/T
+frequency 10 6
+
+7_20469848
+genotypes C/C C/T
+frequency 10 6
+

@@ -1,0 +1,147 @@
+# Genotype frequencies per coding snp for BAG3
+# SNP names consist of chromosome_position
+
+1_12853224
+genotypes C/C C/T
+frequency 15 1
+
+1_12853521
+genotypes C/C C/T
+frequency 15 1
+
+1_12853565
+genotypes C/C C/T
+frequency 15 1
+
+1_12853668
+genotypes C/C C/T
+frequency 15 1
+
+1_12853930
+genotypes T/C T/T
+frequency 1 15
+
+1_12854118
+genotypes T/T T/TT
+frequency 15 1
+
+1_12854191
+genotypes A/A A/G
+frequency 15 1
+
+1_12854267
+genotypes T/C T/T
+frequency 2 14
+
+1_12854531
+genotypes . C/A C/C
+frequency 2 2 12
+
+1_12854611
+genotypes . T/TT TT/TT TT/TTT TT/TTTT
+frequency 9 3 2 1 1
+
+1_12854706
+genotypes . A/A A/G
+frequency 2 13 1
+
+1_12855080
+genotypes C/A C/C
+frequency 4 12
+
+1_12855102
+genotypes C/A C/C
+frequency 1 15
+
+1_12855196
+genotypes C/C C/T
+frequency 15 1
+
+1_12855422
+genotypes G/A G/G
+frequency 1 15
+
+1_12855687
+genotypes G/A G/G
+frequency 1 15
+
+1_12855757
+genotypes A/A A/G
+frequency 15 1
+
+1_12855812
+genotypes A/A A/C
+frequency 15 1
+
+1_12855920
+genotypes T/C T/T
+frequency 3 13
+
+1_12855948
+genotypes A/A A/G
+frequency 12 4
+
+1_12856161
+genotypes T/C T/T
+frequency 2 14
+
+1_12856165
+genotypes A/A A/G
+frequency 15 1
+
+1_12856413
+genotypes . A/A A/G
+frequency 1 14 1
+
+1_12856649
+genotypes C/C C/T
+frequency 15 1
+
+1_12856683
+genotypes G/A G/G
+frequency 1 15
+
+1_12856716
+genotypes A/A A/C
+frequency 15 1
+
+1_12856762
+genotypes A/A G/A G/G
+frequency 9 4 3
+
+1_12856793
+genotypes A/A T/A T/T
+frequency 8 5 3
+
+1_12856979
+genotypes C/C C/T
+frequency 15 1
+
+1_12857483
+genotypes G/A G/G
+frequency 2 14
+
+1_12858439
+genotypes . A/A A/G
+frequency 8 7 1
+
+1_12858791
+genotypes . A/A A/G
+frequency 6 9 1
+
+1_12858988
+genotypes . A/A A/C G/A
+frequency 8 6 1 1
+
+1_12859024
+genotypes . C/C C/T
+frequency 8 6 2
+
+1_12859257
+genotypes . C/C C/G
+frequency 7 8 1
+
+1_12859493
+genotypes A/A A/G G/G
+frequency 6 7 3
+

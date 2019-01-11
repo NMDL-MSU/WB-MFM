@@ -1,0 +1,191 @@
+# Genotype frequencies per coding snp for DNAJB6
+# SNP names consist of chromosome_position
+
+4_107641738
+genotypes . T/T
+frequency 13 3
+
+4_107642724
+genotypes . A/A
+frequency 13 3
+
+4_107642853
+genotypes . C/A
+frequency 14 2
+
+4_107643184
+genotypes . C/C C/T
+frequency 12 3 1
+
+4_107643233
+genotypes . G/A G/G
+frequency 11 1 4
+
+4_107643877
+genotypes . T/C T/T
+frequency 13 1 2
+
+4_107644213
+genotypes . A/A A/G
+frequency 12 3 1
+
+4_107644619
+genotypes G/A G/G
+frequency 10 6
+
+4_107645233
+genotypes . G/G
+frequency 15 1
+
+4_107645484
+genotypes . A/G
+frequency 15 1
+
+4_107646680
+genotypes . T/T
+frequency 15 1
+
+4_107647346
+genotypes . T/G T/T
+frequency 10 1 5
+
+4_107647348
+genotypes . G/G T/G
+frequency 10 5 1
+
+4_107648056
+genotypes . T/T
+frequency 14 2
+
+4_107649196
+genotypes . G/G
+frequency 15 1
+
+4_107649705
+genotypes . A/A C/A
+frequency 13 1 2
+
+4_107649979
+genotypes . T/T
+frequency 15 1
+
+4_107650123
+genotypes . G/G
+frequency 15 1
+
+4_107650878
+genotypes . A/G
+frequency 14 2
+
+4_107650950
+genotypes . A/A
+frequency 14 2
+
+4_107651805
+genotypes . A/A
+frequency 15 1
+
+4_107651941
+genotypes . A/A
+frequency 15 1
+
+4_107652315
+genotypes . T/C T/T
+frequency 13 1 2
+
+4_107652335
+genotypes . G/A G/G
+frequency 13 1 2
+
+4_107652981
+genotypes . C/C C/T
+frequency 13 2 1
+
+4_107653008
+genotypes . T/G T/T
+frequency 13 1 2
+
+4_107653193
+genotypes . A/G G/G
+frequency 11 1 4
+
+4_107653665
+genotypes . A/A A/C
+frequency 13 2 1
+
+4_107654568
+genotypes . T/T
+frequency 15 1
+
+4_107654583
+genotypes . A/A
+frequency 15 1
+
+4_107654607
+genotypes . G/G
+frequency 15 1
+
+4_107655400
+genotypes . A/A A/C
+frequency 12 3 1
+
+4_107655855
+genotypes . C/A
+frequency 14 2
+
+4_107656620
+genotypes . C/C T/C
+frequency 13 2 1
+
+4_107656661
+genotypes . G/A G/G
+frequency 13 1 2
+
+4_107657459
+genotypes . T/T
+frequency 15 1
+
+4_107658269
+genotypes . A/A
+frequency 14 2
+
+4_107658498
+genotypes . T/T
+frequency 12 4
+
+4_107658872
+genotypes . G/A G/G
+frequency 13 1 2
+
+4_107659094
+genotypes . T/C T/T
+frequency 13 1 2
+
+4_107659242
+genotypes . T/T
+frequency 14 2
+
+4_107659246
+genotypes . C/C
+frequency 15 1
+
+4_107659247
+genotypes . T/T
+frequency 14 2
+
+4_107660676
+genotypes . C/C
+frequency 15 1
+
+4_107661409
+genotypes . G/C
+frequency 14 2
+
+4_107661778
+genotypes . C/A C/C
+frequency 13 1 2
+
+4_107662851
+genotypes G/G G/T
+frequency 15 1
+

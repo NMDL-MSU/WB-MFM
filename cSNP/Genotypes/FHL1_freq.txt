@@ -1,0 +1,59 @@
+# Genotype frequencies per coding snp for FHL1
+# SNP names consist of chromosome_position
+
+X_108319766
+genotypes . A/A A/C
+frequency 2 13 1
+
+X_108319917
+genotypes . C/C C/T
+frequency 1 14 1
+
+X_108320002
+genotypes . C/C C/T
+frequency 1 14 1
+
+X_108320037
+genotypes . C/C C/T
+frequency 1 14 1
+
+X_108320374
+genotypes T/C T/T
+frequency 1 15
+
+X_108320847
+genotypes A/A A/G G/G
+frequency 6 4 6
+
+X_108321089
+genotypes G/G G/T
+frequency 15 1
+
+X_108321243
+genotypes G/C G/G
+frequency 1 15
+
+X_108321293
+genotypes . C/A C/C
+frequency 1 1 14
+
+X_108321394
+genotypes C/C
+frequency 16
+
+X_108322295
+genotypes . C/C
+frequency 7 9
+
+X_108322309
+genotypes . A/A A/C
+frequency 1 14 1
+
+X_108322883
+genotypes . C/C C/T
+frequency 1 13 2
+
+X_108322933
+genotypes A/A A/T
+frequency 9 7
+

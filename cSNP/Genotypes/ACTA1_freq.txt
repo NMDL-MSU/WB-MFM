@@ -1,0 +1,71 @@
+# Genotype frequencies per coding snp for ACTA1
+# SNP names consist of chromosome_position
+
+1_68409137
+genotypes C/C T/T
+frequency 1 15
+
+1_68409294
+genotypes T/C T/T
+frequency 1 15
+
+1_68409321
+genotypes T/C T/T
+frequency 1 15
+
+1_68409348
+genotypes C/C T/C T/T
+frequency 4 5 7
+
+1_68409388
+genotypes T/C T/T
+frequency 1 15
+
+1_68409426
+genotypes C/C C/T
+frequency 15 1
+
+1_68409605
+genotypes A/A A/C
+frequency 15 1
+
+1_68409837
+genotypes G/C G/G
+frequency 1 15
+
+1_68410355
+genotypes . C/A C/C
+frequency 1 1 14
+
+1_68410379
+genotypes C/A C/C
+frequency 1 15
+
+1_68410444
+genotypes G/A G/G
+frequency 1 15
+
+1_68410458
+genotypes C/C C/T
+frequency 13 3
+
+1_68410534
+genotypes C/C C/T
+frequency 13 3
+
+1_68411019
+genotypes . G/G G/T
+frequency 13 2 1
+
+1_68411047
+genotypes . G/A G/G
+frequency 5 1 10
+
+1_68411233
+genotypes C/C C/T
+frequency 15 1
+
+1_68411366
+genotypes C/C G/C G/G
+frequency 4 7 5
+
