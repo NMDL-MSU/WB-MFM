@@ -4,7 +4,7 @@ This folder contains the scripts used to call coding SNP for 16 genes of interes
 
 ### Subfolders:
 - The *VCF* subfolder contains the VCF files and scripts used to generate them. To view the bash files used to prepare the data and call coding SNP go to [WB_MFM_Bam.sh](https://github.com/NMDL-MSU/WB-MFM/raw/master/cSNP/WB_MFM_Bam.sh) and [call_gene_variants.sh](https://github.com/NMDL-MSU/WB-MFM/raw/master/cSNP/VCF/call_gene_variants.sh).
-- The *Genotypes* subfolder contains R scripts to extract genotype information and frequencies from the VCF files. To view R script go to [genotypes.R](https://htmlpreview.github.io/?https://github.com/NMDL-MSU/WB-MFM/blob/master/cSNP/Genotypes/Genotypes.html) and to download the saved Rdata file for this script containg the vcf data per gene click [here](https://github.com/NMDL-MSU/WB-MFM/blob/master/cSNP/Genotypes/gene_variants.Rdata?raw=true).
+- The *Genotypes* subfolder contains R scripts to extract genotype information and frequencies from the VCF files. To view R script go to [genotypes.R](https://htmlpreview.github.io/?https://github.com/NMDL-MSU/WB-MFM/blob/master/cSNP/Genotypes/Genotypes.html) and to download the saved R Data file (contains the vcf data per gene) click [here](https://github.com/NMDL-MSU/WB-MFM/blob/master/cSNP/Genotypes/gene_variants.Rdata?raw=true).
 
 
 ### To view specific files for a gene refer to the following table:
